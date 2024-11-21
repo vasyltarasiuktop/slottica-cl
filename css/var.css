@@ -1,0 +1,27 @@
+:root {
+  --main-bg-color: #fff;
+  --text-color: #000;
+  --secondary-text-color: #fff; /* faq, bonus-banner */
+  --menu-left-color: #F5F5F5;
+  --text-left-color: #000;
+  --footer-background1: #232325;
+  --footer-background2: #313131;
+
+  --main-color: #000; /* titles, icons */
+  --secondary-color: #4473FE;  /* pros-cons bg, faq items bg, review form bg */
+  --secondary-color-2: #fff; /* table cells bg */
+  --secondary-color-3: #72C92E; /* faq title bg */
+  --border-color: #C4C9DA;
+  --banner-bg: url('../images/banner-logo.png');
+  --link-color: #0094EC;
+  --stars-color: #FEA832; /* rating stars */
+
+  /* buttons */
+  --main-btn-bg: #72C92E;
+  --main-btn-border: transparent;
+  --main-btn-text-color: #fff;
+  --secondary-btn-bg: #4473FE;
+  --secondary-btn--color: #fff;
+  --secondary-btn-border: #C4C9DA;
+  /* end buttons */
+}
